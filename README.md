@@ -1,6 +1,6 @@
 # Full Cycle 3.0 > Integração Contínua > Desafios > Pipeline de CI com SonarCloud
 
-### Instruções
+### Instruções.
 
 ```bash
 cd root-folder-of-repo/
